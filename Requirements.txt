@@ -1,0 +1,17 @@
+*Requirements
+--------------------------
+install Tkinter -->ttk
+intsall imaging library
+install Pillow as PIL
+imageTk,Image
+-------------------------------------
+This Is GUI apk
+You Can Download For Free
+And U Can changable
+------------------------------
+
+Problem Solving Mail me:
+
+abdulrahmandev10@gmail.com
++252683533247
+-----------------------------
